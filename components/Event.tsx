@@ -8,7 +8,7 @@ const Event = () => {
         {/* <img src="/images/stock/photo-1635805737707-575885ab0820.jpg" className="max-w-sm rounded-lg shadow-2xl" /> */}
 
         <div className=" flex justify-center items-center flex-col w-full">
-          <h1 className="text-5xl font-bold">
+          <h1 className="text-6xl font-bold">
             Tech <span className=" text-neutral">Witz</span>
           </h1>
           <p className="py-6">
@@ -16,7 +16,7 @@ const Event = () => {
             excepturi exercitationem quasi. In deleniti eaque aut repudiandae et
             a id nisi.
           </p>
-          <button className="btn btn-primary">Get Started</button>
+          
         </div>
         <div
         className=" flex flex-col lg:flex-row">
