@@ -7,7 +7,7 @@ const Coordinator = () => {
       <div className="hero-content text-center">
         <div className="">
           <div className="flex flex-wrap w-full justify-center">
-            <div className="card w-96 bg-base-100 shadow-xl m-1">
+            {/* <div className="card w-96 bg-base-100 shadow-xl m-1">
               <div className="card-body justify-center flex items-center">
                 <Image
                   className="mask mask-squircle"
@@ -35,8 +35,8 @@ const Coordinator = () => {
                 <p>If a dog chews shoes whose shoes does he choose?</p>
                 
               </div>
-            </div>
-            <div className="card w-96 bg-base-100 shadow-xl m-1">
+            </div> */}
+            {/* <div className="card w-96 bg-base-100 shadow-xl m-1">
               <div className="card-body justify-center flex items-center">
                 <Image
                   className="mask mask-squircle"
@@ -49,7 +49,7 @@ const Coordinator = () => {
                 <p>If a dog chews shoes whose shoes does he choose?</p>
                 
               </div>
-            </div>
+            </div> */}
           </div>
           <h1 className="text-5xl font-bold">Coordinator</h1>
           <p className="py-6">

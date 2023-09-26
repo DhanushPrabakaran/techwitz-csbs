@@ -10,10 +10,13 @@ import Footer from '@/components/Footer'
 
 const page = () => {
   return (
-    <div>
+    <div
+    className=' w-screen flex flex-col flex-wrap'>
       <Header/>
       <Hero />
       <Event/>
+      
+      
       <Chefguest/>
       <Hod/>
       <Coordinator/>

@@ -3,7 +3,7 @@ import business from "@/assets/business.png";
 import Image from "next/image";
 const Event = () => {
   return (
-    <div className="hero min-h-screen bg-base-200">
+    <div className="hero min-h-screen w-screen flex flex-wrap bg-base-200">
       <div className="hero-content flex-col lg:flex-row">
         {/* <img src="/images/stock/photo-1635805737707-575885ab0820.jpg" className="max-w-sm rounded-lg shadow-2xl" /> */}
 
@@ -20,6 +20,7 @@ const Event = () => {
         </div>
         <div
         className=" flex flex-col lg:flex-row">
+        {/*
           <div className="card w-96 bg-base-100 shadow-xl image-full m-1">
             <figure>
               <Image src={business} className="" alt="Shoes" />
@@ -46,7 +47,7 @@ const Event = () => {
                 <button className="btn btn-primary">Buy Now</button>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>

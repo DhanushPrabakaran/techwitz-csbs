@@ -4,7 +4,7 @@ import Image from 'next/image'
 // Image
 const Chefguest = () => {
   return (
-    <div className="hero min-h-screen bg-base-200">
+    <div className="hero min-w-screen  min-h-screen bg-base-200">
   <div className="hero-content flex-col lg:flex-row justify-center">
   <Image 
   className="mask mask-squircle" 
