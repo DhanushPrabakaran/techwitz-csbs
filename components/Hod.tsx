@@ -3,7 +3,7 @@ import business from "@/assets/business.png";
 import Image from "next/image";
 const Hod = () => {
   return (
-    <div className="hero min-h-screen bg-fixed" style={{backgroundImage: 'url(https://daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.jpg)'}}>
+    <div className="hero min-h-screen bg-fixed" style={{backgroundImage: 'url(https://www.esds.co.in/blog/wp-content/uploads/2019/05/Productivity-and-efficeincy.gif)'}}>
   <div className="hero-overlay bg-opacity-60"></div>
   <div className="hero-content text-center text-neutral-content">
     <div className="max-w-md flex flex-col justify-center items-center">

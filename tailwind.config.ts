@@ -9,6 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       backgroundImage: {
+        'hero-background':"url('/assets/background.jpg')",
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
@@ -29,4 +30,5 @@ const config: Config = {
     logs: true, // Shows info about daisyUI version and used config in the console when building your CSS
   },
 }
+//D:\Development\Project_Platform\techwitz-csbs\assets
 export default config

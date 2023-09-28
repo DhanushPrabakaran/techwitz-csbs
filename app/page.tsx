@@ -15,8 +15,6 @@ const page = () => {
       <Header/>
       <Hero />
       <Event/>
-      
-      
       <Chefguest/>
       <Hod/>
       <Coordinator/>
