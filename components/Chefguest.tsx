@@ -5,18 +5,18 @@ import chefguest from '@/events/chefguest.jpg'
 // Image
 const Chefguest = () => {
   return (
-    <div className="hero min-w-screen  min-h-screen bg-base-200">
+    <div className="hero group min-w-screen  min-h-screen bg-base-200">
   <div className="hero-content flex-col lg:flex-row justify-center">
   <Image 
-  className="mask mask-squircle" 
+  className="mask mask-squircle group-hover:animate-[fade-in_2s_ease-in-out]" 
   height={300} 
   width={300} 
   src={chefguest}
   alt="picture" />
     <div
     className='flex items-center flex-col'>
-      <h1 className="text-5xl font-bold">Chefguest</h1>
-      <p className="py-6 text-justify">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
+      <h1 className="text-5xl font-bold group-hover:animate-[fade-in-down_2s_ease-in-out] text-secondary">Chefguest</h1>
+      <p className="py-6 group-hover:animate-[fade-in-right_2s_ease-in-out] text-center">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
       <div className="flex justify-center">
         <a
         className="m-2">
@@ -31,7 +31,7 @@ const Chefguest = () => {
           </svg>
         </a>
         <a
-        className="m-2">
+        className="m-2 group-hover:animate-[fade-in_2s_ease-in-out]">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="30"

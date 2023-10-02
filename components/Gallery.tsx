@@ -24,11 +24,10 @@ const photos = [
 ];
 const Gallery = () => {
   return (
-    <div className=" relative h-screen w-screen overflow-scroll overflow-x-hidden">
-         
-     <h1 className=" text-secondary absolute w-full text-center text-5xl font-bold  justify-start content-center	 ">Gallery</h1>
+    <div className="  h-screen w-screen overflow-scroll overflow-x-hidden">
+     <h1 className=" text-primary absolute w-full text-center text-5xl font-bold  justify-start content-center	 ">Gallery</h1>
     
-<div className="grid grid-cols-2 md:grid-cols-4 gap-2">
+<div className="grid grid-cols-2 md:grid-cols-4 gap-2 opacity-60 bg-black">
     <div className="grid gap-2">
         <div>
             <Image className="h-auto max-w-full rounded-lg" src={pic_1} alt=""/>
@@ -81,110 +80,4 @@ const Gallery = () => {
 };
 
 export default Gallery;
-//     <div
-//     classNameName='h-screen w-screen'>
-//          <h1
-//         classNameName='z-10 absolute left-[39%]  content-center text-center text-5xl font-bold justify-center'>Gallery</h1>
-//         {/* <div classNameName="hero-overlay bg-opacity-0"></div> */}
-//     <div classNameName="carousel carousel-end  ">
 
-//   <div classNameName="carousel-item">
-
-//     <Image
-//     src={pic_1} alt="Drink"
-//     classNameName=' w-fit object-center image-full'
-//     />
-//   </div>
-//   <div classNameName="carousel-item">
-
-//     <Image
-//     src={pic_2} alt="Drink"
-//     classNameName=' w-fit object-center image-full'
-//     />
-//   </div>
-//   <div classNameName="carousel-item">
-
-//     <Image
-//     src={pic_3} alt="Drink"
-//     classNameName=' w-fit object-center image-full'
-//     />
-//   </div>
-//   <div classNameName="carousel-item">
-
-//     <Image
-//     src={pic_4} alt="Drink"
-//     classNameName=' w-fit object-center image-full'
-//     />
-//   </div>
-//   <div classNameName="carousel-item">
-
-//     <Image
-//     src={pic_4} alt="Drink"
-//     classNameName=' w-fit object-center image-full'
-//     />
-//   </div>
-//   <div classNameName="carousel-item">
-
-//     <Image
-//     src={pic_6} alt="Drink"
-//     classNameName=' w-fit object-center image-full'
-//     />
-//   </div>
-//   <div classNameName="carousel-item">
-
-//     <Image
-//     src={pic_7} alt="Drink"
-//     classNameName=' w-fit object-center image-full'
-//     />
-//   </div>
-//   <div classNameName="carousel-item">
-
-//     <Image
-//     src={pic_8} alt="Drink"
-//     classNameName=' w-fit object-center image-full'
-//     />
-//   </div>
-//   <div classNameName="carousel-item">
-
-//     <Image
-//     src={pic_9} alt="Drink"
-//     classNameName=' w-fit object-center image-full'
-//     />
-//   </div>
-//   <div classNameName="carousel-item">
-
-//     <Image
-//     src={pic_10} alt="Drink"
-//     classNameName=' w-fit object-center image-full'
-//     />
-//   </div>
-//   <div classNameName="carousel-item">
-
-//     <Image
-//     src={pic_11} alt="Drink"
-//     classNameName=' w-fit object-center image-full'
-//     />
-//   </div>
-//   <div classNameName="carousel-item">
-
-//     <Image
-//     src={pic_12} alt="Drink"
-//     classNameName=' w-fit object-center image-full'
-//     />
-//   </div>
-//   <div classNameName="carousel-item">
-
-//     <Image
-//     src={pic_13} alt="Drink"
-//     classNameName=' w-fit object-center image-full'
-//     />
-//   </div>
-//   <div classNameName="carousel-item">
-
-//     <Image
-//     src={pic_14} alt="Drink"
-//     classNameName=' w-fit object-center image-full'
-//     />
-//   </div>
-// </div>
-// </div>
