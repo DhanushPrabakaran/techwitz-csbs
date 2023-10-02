@@ -1,15 +1,21 @@
 "use client";
 import React from "react";
+// Initialization for ES Users
+import {
+  Animate,
+  initTE,
+} from "tw-elements";
 
+initTE({ Animate });
 import YouTubePlayer from "../components/youtube";
 const Hero = () => {
   return (
-    <div className="hero min-h-screen bg-fixed" style={{backgroundImage: 'url(https://www.esds.co.in/blog/wp-content/uploads/2019/05/Productivity-and-efficeincy.gif)'}}>
+    <div className="  hero min-h-screen bg-fixed" style={{backgroundImage: 'url(https://www.esds.co.in/blog/wp-content/uploads/2019/05/Productivity-and-efficeincy.gif)'}}>
   <div className="hero-overlay bg-opacity-60"></div>
   <div className="hero-content text-center text-neutral-content">
     <div className="">
-      <h1 className="mb-5 text-5xl font-bold">Computer Science and <span className=" text-secondary">Business Systems</span></h1>
-      <p className="mb-5">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
+      <h1 className="mb-5 text-5xl font-bold animate-[fade-in-down_2s_ease-in-out]">Computer Science and <span className=" text-secondary">Business Systems</span></h1>
+      <p className="mb-5 animate-[fade-in-left_2s_ease-in-out]  ">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
       <div className="flex justify-center">
         <a
         className="m-2">

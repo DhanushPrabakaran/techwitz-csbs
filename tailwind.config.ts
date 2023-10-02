@@ -20,7 +20,7 @@ const config: Config = {
       },
     },
   },
-  plugins: [require("daisyui")],
+  plugins: [require("daisyui"),require("tw-elements/dist/plugin.cjs")],
 
   // daisyUI config (optional - here are the default values)
   daisyui: {
