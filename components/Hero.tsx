@@ -1,9 +1,6 @@
 "use client";
 import React from "react";
 
-
-
-import YouTubePlayer from "../components/youtube";
 const Hero = () => {
   return (
     <div className="  hero min-h-screen bg-fixed" style={{backgroundImage: 'url(https://www.esds.co.in/blog/wp-content/uploads/2019/05/Productivity-and-efficeincy.gif)'}}>

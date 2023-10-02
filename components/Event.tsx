@@ -15,7 +15,7 @@ const Event = () => {
             a id nisi.
           </p>
           <div
-          className="flex flex-wrap">
+          className="flex flex-wrap justify-center">
           <div
           className=" relative w-56 bg-cover h-24  rounded-md text-center flex justify-center items-center m-2 cursor-pointer group-hover:animate-[fade-in_2s_ease-in-out]" style={{backgroundImage: 'url(https://i.pinimg.com/originals/b6/a1/64/b6a164fe3c74eeb8fae8de7ad4b1d3ef.gif)'}}>
         <div className=" rounded-md absolute bg-neutral w-full h-full bg-opacity-80"></div>
@@ -37,10 +37,7 @@ const Event = () => {
           </div>
           </div>
         </div>
-        <div
-        className=" flex flex-col lg:flex-row">
         
-        </div>
       </div>
     </div>
   );
