@@ -1,12 +1,8 @@
 "use client";
 import React from "react";
-// Initialization for ES Users
-import {
-  Animate,
-  initTE,
-} from "tw-elements";
 
-initTE({ Animate });
+
+
 import YouTubePlayer from "../components/youtube";
 const Hero = () => {
   return (
