@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'Techwitz | Event Invitation',
   description: 'Techwitz - KIT - KALAIGNARKARUNANIDHI INSTITUTE OF TECHNOLOGY - Computer Science and Business Systems Ogranizing Event.',
-  icons : '/favicon.ico',
+  icons : './favicon.ico',
 }
 
 export default function RootLayout({
