@@ -7,20 +7,19 @@ import Hod from '@/components/Hod'
 import Coordinator from '@/components/Coordinator'
 import Staff from '@/components/Staff'
 import Footer from '@/components/Footer'
-
+import Gallery from '@/components/Gallery'
 const page = () => {
   return (
     <div
-    className=' w-screen flex flex-col flex-wrap'>
+    className=' overflow-hidden flex flex-col flex-wrap'>
       <Header/>
       <Hero />
       <Event/>
-      
-      
       <Chefguest/>
       <Hod/>
       <Coordinator/>
       <Staff/>
+      <Gallery/>
       <Footer/>
     </div>
   )
