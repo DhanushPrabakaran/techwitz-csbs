@@ -8,6 +8,10 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      animation: {
+        // Bounces 5 times 1s equals 5 seconds
+        'bounce-short': 'bounce 1s ease-in-out 2'
+      },
       backgroundImage: {
         "hero-background": "url('/assets/background.jpg')",
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
@@ -21,7 +25,7 @@ const config: Config = {
   // daisyUI config (optional - here are the default values)
   daisyui: {
     themes: true, // true: all themes | false: only light + dark | array: specific themes like this ["light", "dark", "cupcake"]
-    darkTheme: "night", // name of one of the included themes for dark mode
+    darkTheme: "forest", // name of one of the included themes for dark mode
     base: true, // applies background color and foreground color for root element by default
     styled: true, // include daisyUI colors and design decisions for all components
     utils: true, // adds responsive and modifier utility classes

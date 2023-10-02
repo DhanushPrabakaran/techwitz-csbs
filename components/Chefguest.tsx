@@ -1,6 +1,7 @@
 import React from 'react'
 import business from '@/assets/business.png'
 import Image from 'next/image'
+import chefguest from '@/events/chefguest.jpg'
 // Image
 const Chefguest = () => {
   return (
@@ -8,9 +9,9 @@ const Chefguest = () => {
   <div className="hero-content flex-col lg:flex-row justify-center">
   <Image 
   className="mask mask-squircle" 
-  height={450} 
-  width={450} 
-  src={business}
+  height={300} 
+  width={300} 
+  src={chefguest}
   alt="picture" />
     <div
     className='flex items-center flex-col'>
