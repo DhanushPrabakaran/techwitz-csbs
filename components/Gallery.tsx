@@ -25,7 +25,7 @@ const photos = [
 const Gallery = () => {
   return (
     <div className="  h-screen w-screen overflow-scroll overflow-x-hidden">
-     <h1 className=" text-primary absolute w-full text-center text-5xl font-bold  justify-start content-center	 ">Gallery</h1>
+     <h1 className=" text-primary absolute w-full text-center text-5xl font-bold  justify-start content-center	 ">{"<"} Gallery {">"}</h1>
     
 <div className="grid grid-cols-2 md:grid-cols-4 gap-2 opacity-60 bg-black">
     <div className="grid gap-2">

@@ -6,8 +6,7 @@ const Event = () => {
     <div className="hero   min-h-screen w-screen flex flex-wrap bg-base-200 justify-center">
       <div className="hero-content flex-col lg:flex-row">
         <div className=" flex justify-center items-center flex-col w-full">
-          <h1 className="text-6xl font-bold animate-[fade-in-down_2s_ease-in-out]">
-            Tech <span className=" text-secondary">Witz</span>
+          <h1 className="text-6xl font-bold animate-[fade-in-down_2s_ease-in-out]"> {"<"} Tech <span className=" text-secondary">Witz {">"}</span>
           </h1>
           <p className="py-6 animate-[fade-in-left_2s_ease-in-out] text-center text-secondary">
             Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda

@@ -10,7 +10,7 @@ const Staff = () => {
     <div className="hero group min-h-screen bg-base-200">
       <div className="hero-content text-center">
         <div className="w-full">
-          <h1 className="text-5xl font-bold m-2 animate-[fade-in_2s_ease-in-out] text-secondary uppercase">Staff</h1>
+          <h1 className="text-5xl font-bold m-2 animate-[fade-in_2s_ease-in-out] text-secondary uppercase">{"<<"} Staff {">>"}</h1>
           <div className="flex justify-center flex-wrap w-full m-2">
             
             
