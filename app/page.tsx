@@ -11,7 +11,7 @@ import Gallery from '@/components/Gallery'
 const page = () => {
   return (
     <div
-    className=' overflow-hidden flex flex-col flex-wrap font-serif'>
+    className=' overflow-hidden flex flex-col flex-wrap font-mono'>
       <Header/>
       <Hero />
       <Event/>
