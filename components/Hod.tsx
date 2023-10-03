@@ -14,7 +14,7 @@ const Hod = () => {
       <div className="hero-overlay bg-opacity-60"></div>
       <div className="hero-content text-center text-neutral-content">
         <div className=" flex flex-col justify-center items-center">
-          <h1 className="mb-5 text-4xl font-bold uppercase inline-flex text-secondary animate-[fade-in-down_2s_ease-in-out]">
+          <h1 className="mb-5 text-3xl font-bold uppercase inline-flex text-secondary animate-[fade-in-down_2s_ease-in-out]">
             {"<"} Head Of The Department {">"}
           </h1>
           <Image
@@ -60,7 +60,7 @@ const Hod = () => {
           Experienced Professor with a demonstrated history of working in the education management industry. Loves encouraging people and want to reach a greater community. Reaches out and helped students to create a blueprint for success in their lives through her care and motivation.
           </p>
           <div className="flex justify-center">
-          <h2 className='text-secondary font-bold' >Profile: </h2>
+          {/* <h2 className='text-secondary font-bold' >Profile: </h2> */}
             <a className="m-2"
             href="https://www.linkedin.com/in/dr-mahalakshmi-k-00068b65/?originalSubdomain=in" target="_blank">
               <svg

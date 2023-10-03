@@ -11,38 +11,72 @@ const Staff = () => {
       <div className="hero-content text-center">
         <div className="w-full">
           <h1 className="text-4xl font-bold m-2 animate-[fade-in_2s_ease-in-out] text-secondary uppercase">{"<<"} Staff {">>"}</h1>
-          <div className="flex justify-center flex-wrap w-full m-2">
+          <div className="flex justify-center align-middle flex-wrap w-full m-2">
             
             
-            <Image
-              className="mask m-2 mask-squircle animate-[fade-in_2s_ease-in-out]"
-              height={200}
-              width={200}
-              src={mohanapriya}
-              alt="picture"
-            />
-            <Image
-              className="mask m-2 mask-squircle animate-[fade-in_2s_ease-in-out]"
-              height={200}
-              width={200}
-              src={priyadharishini}
-              alt="picture"
-            />
             
-            <Image
-              className="mask m-2 mask-squircle animate-[fade-in_2s_ease-in-out]"
-              height={200}
-              width={200}
-              src={pavitra}
-              alt="picture"
-            />
-            <Image
-              className="mask m-2 mask-squircle animate-[fade-in_2s_ease-in-out]"
-              height={200}
-              width={200}
-              src={sudarvili}
-              alt="picture"
-            />
+          <div
+              className="m-2 items-center flex flex-col justify-between">
+                <Image
+                  className="mask mask-squircle animate-[fade-in-left_2s_ease-in-out] "
+                  height={200}
+                  width={200}
+                  src={mohanapriya}
+                  alt="picture"
+                />
+                <div>
+                <h2 className=" font-bold text-xl text-primary animate-[fade-in-left_2s_ease-in-out] ">Mr.C.Vignesh Manikandan</h2>
+                <h2 className=" font-bold  text-secondary animate-[fade-in-left_2s_ease-in-out]">Assistant professors, CSBS</h2>
+                </div>
+                
+                {/* <div className="animate-[fade-in-left_2s_ease-in-out]">icons</div> */}
+              </div>
+              <div
+              className="m-2 items-center flex flex-col justify-between">
+                <Image
+                  className="mask mask-squircle animate-[fade-in-left_2s_ease-in-out] "
+                  height={200}
+                  width={200}
+                  src={priyadharishini}
+                  alt="picture"
+                />
+               <div>
+                <h2 className=" font-bold text-xl text-primary animate-[fade-in-left_2s_ease-in-out] ">Mr.C.Vignesh Manikandan</h2>
+                <h2 className=" font-bold  text-secondary animate-[fade-in-left_2s_ease-in-out]">Assistant professors, CSBS</h2>
+                </div>
+                {/* <div className="animate-[fade-in-left_2s_ease-in-out]">icons</div> */}
+              </div>
+            
+              <div
+              className="m-2 items-center flex flex-col justify-between">
+                <Image
+                  className="mask mask-squircle animate-[fade-in-left_2s_ease-in-out] "
+                  height={200}
+                  width={200}
+                  src={pavitra}
+                  alt="picture"
+                />
+                <div>
+                <h2 className=" font-bold text-xl text-primary animate-[fade-in-left_2s_ease-in-out] ">Mr.C.Vignesh Manikandan</h2>
+                <h2 className=" font-bold  text-secondary animate-[fade-in-left_2s_ease-in-out]">Assistant professors, CSBS</h2>
+                </div>
+                {/* <div className="animate-[fade-in-left_2s_ease-in-out]">icons</div> */}
+              </div>
+              <div
+              className="m-2 items-center flex flex-col justify-between">
+                <Image
+                  className="mask mask-squircle animate-[fade-in-left_2s_ease-in-out] "
+                  height={200}
+                  width={200}
+                  src={sudarvili}
+                  alt="picture"
+                />
+               <div>
+                <h2 className=" font-bold text-xl text-primary animate-[fade-in-left_2s_ease-in-out] ">Mr.C.Vignesh Manikandan</h2>
+                <h2 className=" font-bold  text-secondary animate-[fade-in-left_2s_ease-in-out]">Assistant professors, CSBS</h2>
+                </div>
+                {/* <div className="animate-[fade-in-left_2s_ease-in-out]">icons</div> */}
+              </div>
           </div>
 
           {/* <p className="py-6">
