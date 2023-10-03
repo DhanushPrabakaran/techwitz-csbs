@@ -18,7 +18,7 @@ const Chefguest = () => {
       <h1 className="text-5xl font-bold animate-[fade-in-down_2s_ease-in-out] text-secondary">Chief Guest </h1>
       <h2 className=" font-bold m-2 text-3xl text-primary animate-[fade-in-left_2s_ease-in-out] ">Mr. Balaji S</h2>
                 <h2 className=" font-bold text-2xl m-2  text-secondary animate-[fade-in-left_2s_ease-in-out] ">Deputy General Manager - Project & Planning</h2>
-                <div className="animate-[fade-in-left_2s_ease-in-out] text-xl m-2 ">Lakshmi Machine Works Ltd</div>
+                <div className="animate-[fade-in-left_2s_ease-in-out] text-xl m-2 font-bold uppercase ">Lakshmi Machine Works Ltd</div>
       <p className="py-6 animate-[fade-in-right_2s_ease-in-out] text-center font-mono">
       <span className='bg-secondary rounded-md text-black px-1 '> Project Management professional</span> | <span className='bg-secondary rounded-md text-black px-1 '> Space and Aerospace domain </span> | <span className='bg-secondary rounded-md text-black px-1 inline-block '>Strategic, Data driven and logical thinker</span> | <span className='bg-secondary rounded-md text-black px-1 '> Continuous Learner</span> </p>
       <div className="flex text-center items-center justify-center">
