@@ -8,25 +8,25 @@ const Staff = () => {
     <div className="hero group min-h-screen bg-base-200">
       <div className="hero-content text-center">
         <div className="w-full">
-          <h1 className="text-5xl font-bold m-2 group-hover:animate-[fade-in_2s_ease-in-out] text-secondary">Staff</h1>
+          <h1 className="text-5xl font-bold m-2 animate-[fade-in_2s_ease-in-out] text-secondary">Staff</h1>
           <div className="flex justify-center flex-wrap w-full m-2">
             
             <Image
-              className="mask m-2 mask-squircle group-hover:animate-[fade-in_2s_ease-in-out]"
+              className="mask m-2 mask-squircle animate-[fade-in_2s_ease-in-out]"
               height={200}
               width={200}
               src={priyadharishini}
               alt="picture"
             />
             <Image
-              className="mask m-2 mask-squircle group-hover:animate-[fade-in_2s_ease-in-out]"
+              className="mask m-2 mask-squircle animate-[fade-in_2s_ease-in-out]"
               height={200}
               width={200}
               src={sudarvili}
               alt="picture"
             />
             <Image
-              className="mask m-2 mask-squircle group-hover:animate-[fade-in_2s_ease-in-out]"
+              className="mask m-2 mask-squircle animate-[fade-in_2s_ease-in-out]"
               height={200}
               width={200}
               src={pavitra}
