@@ -8,7 +8,7 @@ const Event = () => {
         <div className=" flex justify-center items-center flex-col w-full">
           <h1 className="text-6xl font-bold animate-[fade-in-down_2s_ease-in-out]"> {"<"} Tech <span className=" text-secondary">Witz {">"}</span>
           </h1>
-          <h3 className="animate-[fade-in-down_2s_ease-in-out] text-center font-bold">{`"`}Bridging Bits And Bucks Where InNovation Meets Investment!{`"`}</h3>
+          <h3 className="animate-[fade-in-down_2s_ease-in-out] text-center font-bold italic">{`{ "`}Bridging Bits And Bucks Where InNovation Meets Investment!{`" }`}</h3>
           <p className="p-6 animate-[fade-in-left_2s_ease-in-out] text-center text-secondary ">
           Techwitz 2023 is not just an event; it{`'`}s a celebration of the boundless potential of technology and innovation. As we gather here today, we embark on a journey into the future, where possibilities are limited only by our imagination.
 <br />
