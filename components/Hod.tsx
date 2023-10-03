@@ -57,7 +57,7 @@ const Hod = () => {
             </span>{" "}
           </p> */}
           <p className="mb-5 animate-[fade-in-left_2s_ease-in-out] text-center text-accent">
-          Experienced Professor with a demonstrated history of working in the education management industry. Loves encouraging people and want to reach a greater community. Reached out and helped individuals/students create a blueprint for success in their lives through my care and motivation.
+          Experienced Professor with a demonstrated history of working in the education management industry. Loves encouraging people and want to reach a greater community. Reaches out and helped students to create a blueprint for success in their lives through her care and motivation.
           </p>
           <div className="flex justify-center">
           <h2 className='text-secondary font-bold' >Profile: </h2>

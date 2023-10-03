@@ -14,7 +14,7 @@ const Coordinator = () => {
           <div className="flex flex-wrap w-full justify-center">
             <div className="flex justify-evenly flex-wrap w-full m-2 ">
             <div
-              className="m-2">
+              className="m-2 items-center flex flex-col">
                 <Image
                   className="mask mask-squircle animate-[fade-in-left_2s_ease-in-out] "
                   height={200}
@@ -22,12 +22,12 @@ const Coordinator = () => {
                   src={manikandan}
                   alt="picture"
                 />
-                <h2 className=" font-bold text-xl text-primary animate-[fade-in-left_2s_ease-in-out] ">Mr. Madhivanan</h2>
+                <h2 className=" font-bold text-xl text-primary animate-[fade-in-left_2s_ease-in-out] ">Mr. C. Vignesh Manikandan</h2>
                 <h2 className=" font-bold  text-secondary animate-[fade-in-left_2s_ease-in-out] ">designation</h2>
                 <div className="animate-[fade-in-left_2s_ease-in-out]">icons</div>
               </div>
               <div
-              className="m-2">
+              className="m-2 items-center flex flex-col">
                 <Image
                   className="mask mask-squircle animate-[fade-in_2s_ease-in-out] "
                   height={200}
@@ -40,7 +40,7 @@ const Coordinator = () => {
                 <div>icons</div>
               </div>
               <div
-              className="m-2">
+              className="m-2 items-center flex flex-col">
                 <Image
                   className="mask mask-squircle animate-[fade-in-right_2s_ease-in-out] "
                   height={200}

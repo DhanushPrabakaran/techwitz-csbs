@@ -18,7 +18,7 @@ const Hero = () => {
             <span className=" text-secondary">Business Systems</span>
           </h1>
           <p className="mb-5 animate-[fade-in-left_2s_ease-in-out] text-accent">
-          empowers students to enhance their knowledge on the latest computer technology and business systems thereby enables them to be technically competent technocrats. <br />
+          Empower students to enhance their knowledge on the latest computer technology and business systems thereby enables them to be technically competent technocrats. <br />
 
 To keep pace with the needs of IT industries, the four year program ensures that students not only get exposed to computer science but also gain knowledge on business systems and management science. <br />
 
