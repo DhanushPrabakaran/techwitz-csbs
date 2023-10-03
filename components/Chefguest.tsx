@@ -8,19 +8,19 @@ const Chefguest = () => {
     <div className="hero group min-w-screen  min-h-screen bg-base-200">
   <div className="hero-content flex-col lg:flex-row justify-center">
   <Image 
-  className="mask mask-squircle animate-[fade-in_2s_ease-in-out]" 
+  className="mask mask-squircle animate-[fade-in_2s_ease-in-out] max-md:w-48" 
   height={300} 
   width={300} 
   src={chefguest}
   alt="picture" />
     <div
     className='flex items-center flex-col'>
-      <h1 className="text-3xl font-bold animate-[fade-in-down_2s_ease-in-out] text-secondary">{"<"} Chief Guest {">"}</h1>
-      <h2 className=" font-bold m-2 text-3xl text-primary animate-[fade-in-left_2s_ease-in-out]">Mr. Balaji S</h2>
-                <h2 className=" font-bold text-2xl m-2  text-secondary animate-[fade-in-left_2s_ease-in-out] ">Deputy General Manager - Project & Planning</h2>
-                <div className="animate-[fade-in-left_2s_ease-in-out] text-xl m-2 font-bold uppercase ">Lakshmi Machine Works Ltd</div>
+      <h1 className="text-3xl max-md:text-2xl font-bold animate-[fade-in-down_2s_ease-in-out] text-secondary">{"<"} Chief Guest {">"}</h1>
+      <h2 className=" font-bold m-2 text-3xl max-md:text-2xl text-primary animate-[fade-in-left_2s_ease-in-out]">Mr. Balaji S</h2>
+                <h2 className=" font-bold lg:text-2xl text-center m-2  text-secondary animate-[fade-in-left_2s_ease-in-out] ">Deputy General Manager - Project & Planning</h2>
+                <div className="animate-[fade-in-left_2s_ease-in-out] text-xl m-2 font-bold uppercase text-center ">Lakshmi Machine Works Ltd</div>
       <p className="py-6 animate-[fade-in-right_2s_ease-in-out] text-center font-mono">
-      <span className='bg-secondary rounded-md text-black px-1 '> Project Management professional</span> | <span className='bg-secondary rounded-md text-black px-1 '> Space and Aerospace domain </span> | <span className='bg-secondary rounded-md text-black px-1 inline-block '>Strategic, Data driven and logical thinker</span> | <span className='bg-secondary rounded-md text-black px-1 '> Continuous Learner</span> </p>
+      <span className='bg-secondary rounded-md text-black px-1 '> Project Management professional</span> | <span className='bg-secondary rounded-md text-black px-1 '> Space and Aerospace domain </span> | <span className='bg-secondary rounded-md text-black px-1 inline-block '>Strategic and logical thinker</span> | <span className='bg-secondary rounded-md text-black px-1 '> Continuous Learner</span> </p>
       <div className="flex text-center items-center justify-center">
            {/* <h2 className='text-secondary font-bold' >Profile: </h2> */}
             <a className="m-2"
