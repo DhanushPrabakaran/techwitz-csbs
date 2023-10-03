@@ -33,7 +33,7 @@ const Hod = () => {
           <h2 className=" font-bold text-2xl m-2  text-secondary animate-[fade-in-left_2s_ease-in-out] ">
           Dean Placements,HOD-CSBS
           </h2>
-          <div className="animate-[fade-in-left_2s_ease-in-out] text-xl m-2 ">
+          <div className="animate-[fade-in-left_2s_ease-in-out] text-xl m-2 font-bold ">
           KIT - KALAIGNARKARUNANIDHI INSTITUTE OF TECHNOLOGY
           </div>
           {/* <p className="py-6 animate-[fade-in-right_2s_ease-in-out] text-center font-mono">
@@ -56,7 +56,7 @@ const Hod = () => {
               Continuous Learner
             </span>{" "}
           </p> */}
-          <p className="mb-5 animate-[fade-in-left_2s_ease-in-out] text-center text-accent">
+          <p className="mb-5 animate-[fade-in-left_2s_ease-in-out] text-center text-primary">
           Experienced Professor with a demonstrated history of working in the education management industry. Loves encouraging people and want to reach a greater community. Reaches out and helped students to create a blueprint for success in their lives through her care and motivation.
           </p>
           <div className="flex justify-center">
