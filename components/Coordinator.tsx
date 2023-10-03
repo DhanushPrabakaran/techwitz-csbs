@@ -22,9 +22,9 @@ const Coordinator = () => {
                   src={manikandan}
                   alt="picture"
                 />
-                <h2 className=" font-bold text-xl text-primary animate-[fade-in-left_2s_ease-in-out] ">Mr. C. Vignesh Manikandan</h2>
-                <h2 className=" font-bold  text-secondary animate-[fade-in-left_2s_ease-in-out] ">designation</h2>
-                <div className="animate-[fade-in-left_2s_ease-in-out]">icons</div>
+                <h2 className=" font-bold text-xl text-primary animate-[fade-in-left_2s_ease-in-out] ">Mr.C.Vignesh Manikandan</h2>
+                <h2 className=" font-bold  text-secondary animate-[fade-in-left_2s_ease-in-out]">Assistant professors, CSBS</h2>
+                {/* <div className="animate-[fade-in-left_2s_ease-in-out]">icons</div> */}
               </div>
               <div
               className="m-2 items-center flex flex-col">
@@ -35,9 +35,9 @@ const Coordinator = () => {
                   src={madhivanan}
                   alt="picture"
                 />
-                <h2 className=" font-bold text-xl text-primary animate-[fade-in_2s_ease-in-out] ">Mr. Madhivanan</h2>
-                <h2 className=" font-bold  text-secondary animate-[fade-in_2s_ease-in-out] ">designation</h2>
-                <div>icons</div>
+                <h2 className=" font-bold text-xl text-primary animate-[fade-in_2s_ease-in-out] ">Mr. Mathivanan</h2>
+                <h2 className=" font-bold  text-secondary animate-[fade-in_2s_ease-in-out] ">Assistant professors, CSBS</h2>
+                {/* <div>icons</div> */}
               </div>
               <div
               className="m-2 items-center flex flex-col">
@@ -49,8 +49,8 @@ const Coordinator = () => {
                   alt="picture"
                 />
                 <h2 className=" font-bold text-xl text-primary animate-[fade-in-right_2s_ease-in-out] ">Mr. Madhivanan</h2>
-                <h2 className=" font-bold  text-secondary animate-[fade-in-right_2s_ease-in-out] ">designation</h2>
-                <div className="animate-[fade-in-right_2s_ease-in-out]">icons</div>
+                <h2 className=" font-bold  text-secondary animate-[fade-in-right_2s_ease-in-out] ">Assistant professors, CSBS</h2>
+                {/* <div className="animate-[fade-in-right_2s_ease-in-out]">icons</div> */}
               </div>
             </div>
           </div>

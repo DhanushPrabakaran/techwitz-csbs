@@ -13,13 +13,7 @@ const Staff = () => {
           <h1 className="text-5xl font-bold m-2 animate-[fade-in_2s_ease-in-out] text-secondary uppercase">Staff</h1>
           <div className="flex justify-center flex-wrap w-full m-2">
             
-            <Image
-              className="mask m-2 mask-squircle animate-[fade-in_2s_ease-in-out]"
-              height={200}
-              width={200}
-              src={priyadharishini}
-              alt="picture"
-            />
+            
             <Image
               className="mask m-2 mask-squircle animate-[fade-in_2s_ease-in-out]"
               height={200}
@@ -31,14 +25,22 @@ const Staff = () => {
               className="mask m-2 mask-squircle animate-[fade-in_2s_ease-in-out]"
               height={200}
               width={200}
-              src={sudarvili}
+              src={priyadharishini}
+              alt="picture"
+            />
+            
+            <Image
+              className="mask m-2 mask-squircle animate-[fade-in_2s_ease-in-out]"
+              height={200}
+              width={200}
+              src={pavitra}
               alt="picture"
             />
             <Image
               className="mask m-2 mask-squircle animate-[fade-in_2s_ease-in-out]"
               height={200}
               width={200}
-              src={pavitra}
+              src={sudarvili}
               alt="picture"
             />
           </div>
