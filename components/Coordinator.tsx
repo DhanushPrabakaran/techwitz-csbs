@@ -1,5 +1,5 @@
 import React from "react";
-import business from "@/assets/business.png";
+import madhivanan from "@/events/madhivanan_sir.jpg";
 import manikandan from "@/events/manikandan_sir.jpeg";
 import sujaya from "@/events/sujaya_mam.jpeg";
 
@@ -32,7 +32,7 @@ const Coordinator = () => {
                   className="mask mask-squircle animate-[fade-in_2s_ease-in-out] "
                   height={200}
                   width={200}
-                  src={manikandan}
+                  src={madhivanan}
                   alt="picture"
                 />
                 <h2 className=" font-bold text-xl text-primary animate-[fade-in_2s_ease-in-out] ">Mr. Madhivanan</h2>

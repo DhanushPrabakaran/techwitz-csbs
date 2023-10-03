@@ -16,3 +16,7 @@
     background-color: #000000;
     border-radius: 10px;
   }
+
+  ::selection {
+    background: rgb(1, 2, 2);
+  }

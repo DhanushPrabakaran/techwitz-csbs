@@ -17,10 +17,12 @@ const Hero = () => {
             Computer Science and{" "}
             <span className=" text-secondary">Business Systems</span>
           </h1>
-          <p className="mb-5 animate-[fade-in-left_2s_ease-in-out]  ">
-            Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda
-            excepturi exercitationem quasi. In deleniti eaque aut repudiandae et
-            a id nisi.
+          <p className="mb-5 animate-[fade-in-left_2s_ease-in-out] text-accent">
+          empowers students to enhance their knowledge on the latest computer technology and business systems thereby enables them to be technically competent technocrats. <br />
+
+To keep pace with the needs of IT industries, the four year program ensures that students not only get exposed to computer science but also gain knowledge on business systems and management science. <br />
+
+The industry relevant program has been designed to offer good exposure to students on emerging areas like cloud computing, Internet of Things, management principles and human values, etc.
           </p>
           <div className="flex justify-center">
             <a className="m-2"
