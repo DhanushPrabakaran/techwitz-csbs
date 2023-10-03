@@ -10,7 +10,7 @@ const Coordinator = () => {
     <div className="hero group min-h-screen bg-base-200">
       <div className="hero-content text-center">
         <div>
-          <h1 className="text-5xl font-bold m-2 animate-[fade-in-down_2s_ease-in-out] text-secondary">{"<<"} Coordinator {">>"}</h1>
+          <h1 className="text-4xl font-bold m-2 animate-[fade-in-down_2s_ease-in-out] text-secondary">{"<<"} Coordinator {">>"}</h1>
           <div className="flex flex-wrap w-full justify-center">
             <div className="flex justify-evenly flex-wrap w-full m-2 ">
             <div

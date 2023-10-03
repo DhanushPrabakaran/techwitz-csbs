@@ -15,7 +15,7 @@ const Chefguest = () => {
   alt="picture" />
     <div
     className='flex items-center flex-col'>
-      <h1 className="text-5xl font-bold animate-[fade-in-down_2s_ease-in-out] text-secondary">{"<"} Chief Guest {">"}</h1>
+      <h1 className="text-4xl font-bold animate-[fade-in-down_2s_ease-in-out] text-secondary">{"<"} Chief Guest {">"}</h1>
       <h2 className=" font-bold m-2 text-3xl text-primary animate-[fade-in-left_2s_ease-in-out] ">Mr. Balaji S</h2>
                 <h2 className=" font-bold text-2xl m-2  text-secondary animate-[fade-in-left_2s_ease-in-out] ">Deputy General Manager - Project & Planning</h2>
                 <div className="animate-[fade-in-left_2s_ease-in-out] text-xl m-2 font-bold uppercase ">Lakshmi Machine Works Ltd</div>

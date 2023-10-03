@@ -14,7 +14,7 @@ const Hod = () => {
       <div className="hero-overlay bg-opacity-60"></div>
       <div className="hero-content text-center text-neutral-content">
         <div className=" flex flex-col justify-center items-center">
-          <h1 className="mb-5 text-5xl font-bold uppercase inline-flex text-secondary animate-[fade-in-down_2s_ease-in-out]">
+          <h1 className="mb-5 text-4xl font-bold uppercase inline-flex text-secondary animate-[fade-in-down_2s_ease-in-out]">
             {"<"} Head Of The Department {">"}
           </h1>
           <Image
