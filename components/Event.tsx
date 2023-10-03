@@ -6,19 +6,17 @@ const Event = () => {
     <div className="hero   min-h-screen w-screen flex flex-wrap bg-base-200 justify-center">
       <div className="hero-content flex-col lg:flex-row">
         <div className=" flex justify-center items-center flex-col w-full">
-          <h1 className="text-4xl  max-md:text-2xl font-bold animate-[fade-in-down_2s_ease-in-out]"> {"<"} Tech <span className=" text-secondary">Witz {">"}</span>
+          <h1 className="text-4xl  max-md:text-2xl font-bold animate-[fade-in-down_2s_ease-in-out]"> {"<<"}Tech<span className=" text-secondary">Witz{">>"}</span>
           </h1>
           <h3 className="animate-[fade-in-down_2s_ease-in-out] text-center font-bold max-md:text-sm italic">{`{ "`}Bridging Bits And Bucks Where InNovation Meets Investment!{`" }`}</h3>
-          <p className="p-6 animate-[fade-in-left_2s_ease-in-out] text-center max-md:text-sm text-secondary ">
-          Techwitz 2023 is not just an event; it{`'`}s a celebration of the boundless potential of technology and innovation. As we gather here today, we embark on a journey into the future, where possibilities are limited only by our imagination.
+          <p className="p-6 animate-[fade-in-left_2s_ease-in-out] text-justify max-md:text-sm text-secondary ">
+          Techwitz 2023 is not just an event; it{`'`}s a celebration of the boundless potential of technology and innovation.
 <br />
-The Inauguration of Techwitz 2023 will commence with an inspiring inaugural speech that will set the stage for the exciting events to come. Our esteemed speakers will share their insights, experiences, and aspirations for a world driven by innovation.
+The Inauguration of Techwitz 2023 will commence with an inspiring inaugural speech that will set the stage for the exciting events to come.
 <br />
 Following the inaugural speech, get ready for a whirlwind of thrilling events that will engage your intellect, challenge your perspectives, and leave you in awe of the incredible advancements in the tech world.
 <br />
 Techwitz 2023 is a convergence of brilliant minds, a hub of creativity, and a celebration of the human spirit{`'`}s relentless pursuit of progress. We invite you to immerse yourself in this unique experience and be a part of a community dedicated to shaping a brighter, more innovative tomorrow.
-<br />
-So, mark your calendars for October 5th at 2:00 PM and prepare to be inspired, amazed, and entertained. Techwitz 2023 is here to redefine what{`'`}s possible in the world of technology, and we{`'`}re delighted to have you with us on this remarkable journey. Welcome aboard! 🌟🌐🚀
 
           </p>
           <div

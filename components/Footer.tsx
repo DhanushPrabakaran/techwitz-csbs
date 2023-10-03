@@ -9,10 +9,10 @@ const Footer = () => {
        className=" h-8 w-8"
        src={Logo}
       alt="ogo" />
-        <p>&copy; Copyright 2023 -</p>
-         <a 
+        <p>&copy; Copyright 2023- <a 
          className="btn-link "
-          href="https://www.linkedin.com/in/dhanushprabakar/">@ Dhanushprabakaran</a>
+          href="https://www.linkedin.com/in/dhanushprabakar/">@ Dhanushprabakaran</a></p>
+         
       </aside>
       <nav className="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
      

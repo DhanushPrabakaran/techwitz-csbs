@@ -27,36 +27,14 @@ const Hod = () => {
           {/* <h1 className="text-5xl font-bold animate-[fade-in-down_2s_ease-in-out] text-secondary">
             Chief Guest{" "}
           </h1> */}
-          <h2 className=" font-bold m-2 text-3xl text-primary animate-[fade-in-left_2s_ease-in-out] ">
+          <h2 className=" font-bold m-1 text-3xl max-md:text-2xl text-primary animate-[fade-in-left_2s_ease-in-out] ">
           Dr.K.Mahalakshmi
           </h2>
-          <h2 className=" font-bold text-2xl m-2  text-secondary animate-[fade-in-left_2s_ease-in-out] ">
+          <h2 className=" font-bold text-2xl max-md:text-xl m-1  text-secondary animate-[fade-in-left_2s_ease-in-out] ">
           Dean Placements,HOD-CSBS
           </h2>
-          <div className="animate-[fade-in-left_2s_ease-in-out] text-xl m-2 font-bold ">
-          KIT - KALAIGNARKARUNANIDHI INSTITUTE OF TECHNOLOGY
-          </div>
-          {/* <p className="py-6 animate-[fade-in-right_2s_ease-in-out] text-center font-mono">
-            <span className="bg-secondary rounded-md text-black px-1 ">
-              {" "}
-              Project Management professional
-            </span>{" "}
-            |{" "}
-            <span className="bg-secondary rounded-md text-black px-1 ">
-              {" "}
-              Space and Aerospace domain{" "}
-            </span>{" "}
-            |{" "}
-            <span className="bg-secondary rounded-md text-black px-1 inline-block ">
-              Strategic, Data driven and logical thinker
-            </span>{" "}
-            |{" "}
-            <span className="bg-secondary rounded-md text-black px-1 ">
-              {" "}
-              Continuous Learner
-            </span>{" "}
-          </p> */}
-          <p className="mb-5 animate-[fade-in-left_2s_ease-in-out] text-center text-primary">
+          <div className="animate-[fade-in-left_2s_ease-in-out] lg:text-xl m-1 font-bold ">KIT-KALAIGNARKARUNANIDHI INSTITUTE OF TECHNOLOGY</div>
+          <p className="mb-5 animate-[fade-in-left_2s_ease-in-out] text-center text-secondary ">
           Experienced Professor with a demonstrated history of working in the education management industry. Loves encouraging people and want to reach a greater community. Reaches out and helped students to create a blueprint for success in their lives through her care and motivation.
           </p>
           <div className="flex justify-center">
