@@ -1,5 +1,5 @@
 import React from "react";
-import Dean_Mam from "@/events/Dean_mam.jpeg";
+import Dean_Mam from "@/events/Dean_mam.jpg";
 
 import Image from "next/image";
 const Hod = () => {

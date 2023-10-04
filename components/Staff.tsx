@@ -1,7 +1,7 @@
 import React from "react";
 import priyadharishini from "@/events/Priyadharishini_mam.jpg";
 import sudarvili from "@/events/sudarvili_mam.jpeg";
-import pavitra from "@/events/pavitra_mam.jpeg";
+import pavitra from "@/events/pavitra_mam.jpg";
 import mohanapriya from "@/events/mohanapriya_mam.jpg";
 import Image from "next/image";
 
