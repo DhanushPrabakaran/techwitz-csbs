@@ -17,7 +17,12 @@ import pic_14 from "@/events/pic_14.jpeg";
 import pic_15 from "@/events/pic_15.jpeg";
 import pic_16 from "@/events/pic_16.jpeg";
 import pic_17 from "@/events/pic_17.jpeg";
-
+import pic_18 from "@/events/pic_18.jpeg";
+import pic_19 from "@/events/pic_18.jpeg";
+import pic_20 from "@/events/pic_19.jpeg";
+import pic_21 from "@/events/pic_20.jpeg";
+import pic_22 from "@/events/pic_21.jpeg";
+import pic_23 from "@/events/pic_23.jpeg";
 const photos = [
     { src: {pic_1}, width: 800, height: 600 },
     { src: {pic_10}, width: 1600, height: 900 },
@@ -52,6 +57,15 @@ const Gallery = () => {
         <div>
             <Image className="h-auto max-w-full rounded-lg" src={pic_14} alt=""/>
         </div>
+        <div>
+            <Image className="h-auto max-w-full rounded-lg" src={pic_15} alt=""/>
+        </div>
+        <div>
+            <Image className="h-auto max-w-full rounded-lg" src={pic_16} alt=""/>
+        </div>
+        <div>
+            <Image className="h-auto max-w-full rounded-lg" src={pic_17} alt=""/>
+        </div>
     </div>
     <div className="grid gap-4">
         <div>
@@ -66,6 +80,15 @@ const Gallery = () => {
         <div>
             <Image className="h-auto max-w-full rounded-lg" src={pic_13} alt=""/>
         </div>
+        <div>
+            <Image className="h-auto max-w-full rounded-lg" src={pic_18} alt=""/>
+        </div>
+        <div>
+            <Image className="h-auto max-w-full rounded-lg" src={pic_19} alt=""/>
+        </div>
+        <div>
+            <Image className="h-auto max-w-full rounded-lg" src={pic_20} alt=""/>
+        </div>
     </div>
     <div className="grid gap-4">
         <div>
@@ -79,6 +102,15 @@ const Gallery = () => {
         </div>
         <div>
             <Image className="h-auto max-w-full rounded-lg" src={pic_15} alt=""/>
+        </div>
+        <div>
+            <Image className="h-auto max-w-full rounded-lg" src={pic_21} alt=""/>
+        </div>
+        <div>
+            <Image className="h-auto max-w-full rounded-lg" src={pic_22} alt=""/>
+        </div>
+        <div>
+            <Image className="h-auto max-w-full rounded-lg" src={pic_23} alt=""/>
         </div>
     </div>
     
