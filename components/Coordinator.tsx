@@ -11,7 +11,7 @@ const Coordinator = () => {
       <div className="hero-content text-center">
         <div>
           <h1 className="text-3xl max-sm:text-2xl font-bold m-2 animate-[fade-in-down_2s_ease-in-out] text-secondary">
-            {"<<"}Staff Coordinator{">>"}
+            {"<<"}Staff Coordinators{">>"}
           </h1>
           <div className="flex flex-wrap w-full justify-center">
             <div className="flex justify-evenly flex-wrap w-full m-2 ">
