@@ -20,7 +20,7 @@ const Chefguest = () => {
                 <h2 className=" font-bold lg:text-2xl text-center m-2  text-secondary animate-[fade-in-left_2s_ease-in-out] ">Deputy General Manager - Project & Planning</h2>
                 <div className="animate-[fade-in-left_2s_ease-in-out] text-xl m-2 font-bold uppercase text-center ">Lakshmi Machine Works Ltd</div>
       <p className="py-6 animate-[fade-in-right_2s_ease-in-out] text-center font-mono">
-      <span className='bg-secondary rounded-md text-black px-1 '> Project Management professional</span> | <span className='bg-secondary rounded-md text-black px-1 '> Space and Aerospace domain </span> | <span className='bg-secondary rounded-md text-black px-1 inline-block '>Strategic and logical thinker</span> | <span className='bg-secondary rounded-md text-black px-1 '> Continuous Learner</span> </p>
+      <span className='bg-secondary rounded-md text-black px-1 '> Project Management professional</span> | <span className='bg-secondary rounded-md text-black px-1'> Space and Aerospace domain</span> | <span className='bg-secondary rounded-md text-black px-1 inline-block '>Strategic and logical thinker</span> | <span className='bg-secondary rounded-md text-black px-1 '> Continuous Learner</span> </p>
       <div className="flex text-center items-center justify-center">
            {/* <h2 className='text-secondary font-bold' >Profile: </h2> */}
             <a className="m-2"

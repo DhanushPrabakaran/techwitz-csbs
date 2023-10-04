@@ -39,7 +39,7 @@ The industry relevant program has been designed to offer good exposure to studen
               </svg>
             </a>
             <a className="m-2"
-            href="/" target="_blank">
+            href="https://www.linkedin.com/in/computer-science-and-business-systems-00b3a1294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
               <svg
                 height="40"
                 width="40"
