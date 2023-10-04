@@ -34,7 +34,7 @@ const Event = () => {
             a brighter, more innovative tomorrow.
           </p>
           <div className="flex flex-wrap justify-center">
-            <a href="">
+            <a href="https://quizizz.com/join?ref=header_tab">
             <div
               className=" relative max-sm:w-44 max-sm:h-16 w-56 bg-cover h-24  rounded-md text-center flex justify-center items-center m-2 cursor-pointer animate-[fade-in_2s_ease-in-out]"
               style={{
@@ -48,7 +48,7 @@ const Event = () => {
               </h1>
             </div>
             </a>
-            <a href="">
+            {/* <a href=""> */}
             <div
               className=" relative max-sm:w-44 max-sm:h-16 w-56 bg-cover h-24  rounded-md text-center flex justify-center items-center m-2 cursor-pointer animate-[fade-in_2s_ease-in-out]"
               style={{
@@ -63,7 +63,7 @@ const Event = () => {
                 Release
               </h1>
             </div>
-            </a>
+            {/* </a> */}
           </div>
         </div>
       </div>
