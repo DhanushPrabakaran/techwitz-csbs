@@ -44,7 +44,7 @@ const Coordinator = () => {
                   Mr.C.Vignesh Manikandan
                 </h2>
                 <h2 className=" font-bold  text-secondary animate-[fade-in-left_2s_ease-in-out]">
-                  Assistant professor / CSBS
+                  Assistant Professor / CSBS
                 </h2>
                 {/* <div className="animate-[fade-in-left_2s_ease-in-out]">icons</div> */}
               </div>
@@ -61,7 +61,7 @@ const Coordinator = () => {
                   Mrs.S.Sujaya
                 </h2>
                 <h2 className=" font-bold  text-secondary animate-[fade-in-right_2s_ease-in-out] ">
-                  Assistant professor / CSBS
+                  Assistant Professor / CSBS
                 </h2>
                 {/* <div className="animate-[fade-in-right_2s_ease-in-out]">icons</div> */}
               </div>
