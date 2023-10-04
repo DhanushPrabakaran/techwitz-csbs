@@ -31,7 +31,7 @@ const Hod = () => {
           Dr.K.Mahalakshmi
           </h2>
           <h2 className=" font-bold text-2xl max-sm:text-xl m-1  text-secondary animate-[fade-in-left_2s_ease-in-out] ">
-          Dean Placements,HOD-CSBS
+          Dean Placements & HOD-CSBS
           </h2>
           <div className="animate-[fade-in-left_2s_ease-in-out] lg:text-xl m-1 font-bold ">KIT-KALAIGNARKARUNANIDHI INSTITUTE OF TECHNOLOGY</div>
           <p className="mb-5 animate-[fade-in-left_2s_ease-in-out] text-center italic">
