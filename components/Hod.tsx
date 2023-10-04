@@ -11,14 +11,14 @@ const Hod = () => {
           "url(https://www.esds.co.in/blog/wp-content/uploads/2019/05/Productivity-and-efficeincy.gif)",
       }}
     >
-      <div className="hero-overlay bg-opacity-60"></div>
+      <div className="hero-overlay bg-opacity-80"></div>
       <div className="hero-content text-center text-neutral-content">
         <div className=" flex flex-col justify-center items-center">
           <h1 className="mb-5 text-3xl max-sm:text-xl font-bold uppercase inline-flex text-secondary animate-[fade-in-down_2s_ease-in-out]">
             {"<<"}Head Of The Department{">>"}
           </h1>
           <Image
-            className="mask mask-squircle animate-[fade-in_2s_ease-in-out] max-md:w-48"
+            className="mask mask-squircle animate-[fade-in_2s_ease-in-out] max-sm:w-48"
             height={300}
             width={300}
             src={Dean_Mam}
@@ -27,14 +27,14 @@ const Hod = () => {
           {/* <h1 className="text-5xl font-bold animate-[fade-in-down_2s_ease-in-out] text-secondary">
             Chief Guest{" "}
           </h1> */}
-          <h2 className=" font-bold m-1 text-3xl max-md:text-2xl text-primary animate-[fade-in-left_2s_ease-in-out] ">
+          <h2 className=" font-bold m-1 text-3xl max-sm:text-2xl text-primary animate-[fade-in-left_2s_ease-in-out] ">
           Dr.K.Mahalakshmi
           </h2>
-          <h2 className=" font-bold text-2xl max-md:text-xl m-1  text-secondary animate-[fade-in-left_2s_ease-in-out] ">
+          <h2 className=" font-bold text-2xl max-sm:text-xl m-1  text-secondary animate-[fade-in-left_2s_ease-in-out] ">
           Dean Placements,HOD-CSBS
           </h2>
           <div className="animate-[fade-in-left_2s_ease-in-out] lg:text-xl m-1 font-bold ">KIT-KALAIGNARKARUNANIDHI INSTITUTE OF TECHNOLOGY</div>
-          <p className="mb-5 animate-[fade-in-left_2s_ease-in-out] text-center text-secondary ">
+          <p className="mb-5 animate-[fade-in-left_2s_ease-in-out] text-center italic">
           Experienced Professor with a demonstrated history of working in the education management industry. Loves encouraging people and want to reach a greater community. Reaches out and helped students to create a blueprint for success in their lives through her care and motivation.
           </p>
           <div className="flex justify-center">

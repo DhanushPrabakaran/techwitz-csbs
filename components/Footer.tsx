@@ -11,7 +11,7 @@ const Footer = () => {
       alt="ogo" />
         <p>&copy;Copyright 2023-<a 
          className="btn-link text-sm "
-          href="https://www.linkedin.com/in/dhanushprabakar/">@Dhanushprabakaran</a></p>
+          href="https://github.com/DhanushPrabakaran/techwitz-csbs">@Dhanushprabakaran</a></p>
          
       </aside>
       

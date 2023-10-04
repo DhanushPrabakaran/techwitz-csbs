@@ -10,14 +10,14 @@ const Hero = () => {
           "url(https://www.esds.co.in/blog/wp-content/uploads/2019/05/Productivity-and-efficeincy.gif)",
       }}
     >
-      <div className="hero-overlay bg-opacity-60"></div>
+      <div className="hero-overlay bg-opacity-80"></div>
       <div className="hero-content text-center text-neutral-content">
         <div className="">
-          <h1 className="mb-5 max-md:text-2xl text-4xl font-bold animate-[fade-in-down_2s_ease-in-out]">
+          <h1 className="mb-5 max-max-sm:text-2xl text-4xl font-bold animate-[fade-in-down_2s_ease-in-out]">
             Computer Science and{" "}
             <span className=" text-secondary">Business Systems</span>
           </h1>
-          <p className="mb-5 animate-[fade-in-left_2s_ease-in-out]">
+          <p className="mb-5 animate-[fade-in-left_2s_ease-in-out] italic">
           Empower students to enhance their knowledge on the latest computer technology and business systems thereby enables them to be technically competent technocrats. <br />
 
 To keep pace with the needs of IT industries, the four year program ensures that students not only get exposed to computer science but also gain knowledge on business systems and management science. <br />
