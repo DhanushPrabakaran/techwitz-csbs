@@ -162,7 +162,7 @@ const Gallery = () => {
             <Image className="h-auto max-w-full rounded-lg" src={pic_13} alt=""/>
         </div>
         <div>
-            <Image className="h-auto max-w-full rounded-lg" src={pic_18} alt=""/>
+            <Image className="h-auto max-w-full rounded-lg" src={pic_52} alt=""/>
         </div>
         <div>
             <Image className="h-auto max-w-full rounded-lg" src={pic_19} alt=""/>
