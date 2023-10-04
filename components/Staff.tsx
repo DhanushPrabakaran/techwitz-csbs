@@ -27,7 +27,7 @@ const Staff = () => {
                   Mrs.D.Mohanapriya
                 </h2>
                 <h2 className=" font-bold  text-secondary animate-[fade-in-left_2s_ease-in-out]">
-                  Assistant professor, CSBS
+                  Assistant Professor / CSBS
                 </h2>
               </div>
 
@@ -46,7 +46,7 @@ const Staff = () => {
                 Mrs.S.Priyatharsini
                 </h2>
                 <h2 className=" font-bold  text-secondary animate-[fade-in-left_2s_ease-in-out]">
-                  Assistant professor, CSBS
+                  Assistant Professor / CSBS
                 </h2>
               </div>
               {/* <div className="animate-[fade-in-left_2s_ease-in-out]">icons</div> */}
@@ -62,10 +62,10 @@ const Staff = () => {
               />
               <div>
                 <h2 className=" font-bold text-xl text-primary animate-[fade-in-left_2s_ease-in-out] ">
-                  Mrs.S.Pavitra
+                  Mrs.S.Pavithra
                 </h2>
                 <h2 className=" font-bold  text-secondary animate-[fade-in-left_2s_ease-in-out]">
-                  Assistant professor, CSBS
+                  Assistant Professor / CSBS
                 </h2>
               </div>
               {/* <div className="animate-[fade-in-left_2s_ease-in-out]">icons</div> */}
@@ -80,10 +80,10 @@ const Staff = () => {
               />
               <div>
                 <h2 className=" font-bold text-xl text-primary animate-[fade-in-left_2s_ease-in-out] ">
-                  Mrs.T.Sudarvizhi 
+                  Mrs.T.Sudarvizhi
                 </h2>
                 <h2 className=" font-bold  text-secondary animate-[fade-in-left_2s_ease-in-out]">
-                  Assistant professor, CSBS
+                  Assistant Professor / CSBS
                 </h2>
               </div>
               {/* <div className="animate-[fade-in-left_2s_ease-in-out]">icons</div> */}
