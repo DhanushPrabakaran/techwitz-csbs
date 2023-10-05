@@ -49,7 +49,7 @@ const Event = () => {
             </div>
             </a>
             {/* https://communityinvite.netlify.app/ */}
-            <a href="https://communityinvite.netlify.ap/" target="_blank">
+            <a href="https://communityinvite.netlify.app/" target="_blank">
             <div
               className=" relative max-sm:w-44 max-sm:h-16 w-56 bg-cover h-24  rounded-md text-center flex justify-center items-center m-2 cursor-pointer animate-[fade-in_2s_ease-in-out]"
               style={{
